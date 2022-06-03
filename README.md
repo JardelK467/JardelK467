@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JardelK467
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently re-learning Java, Python, C++
+- 👀 I’m interested in Software Development/Engineering
+- 🌱 I’m currently learning Java, Python, Kotlin
 - 📫 How to reach me jardelkerr@live.com
 
 <!---
