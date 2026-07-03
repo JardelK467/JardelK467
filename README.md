@@ -1,10 +1,10 @@
-### hey, I'm Jardel
+### hey, I'm Jardel!
 
 Kotlin, mostly. Android first, now writing the same code once and shipping it everywhere.
 
 I build things end-to-end, break them on purpose to see how they work, then build them properly.
 
-🌱 currently: Kotlin Multiplatform, backend, and getting back to fundamentals
+🌱 Currently: Kotlin Multiplatform, backend, and getting back to fundamentals
 📝 [jardelkerr.dev](https://jardelkerr.dev)
 📫 jardelkerr@live.com
 
