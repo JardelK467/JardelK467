@@ -4,9 +4,17 @@ Kotlin, mostly. Android first, now writing the same code once and shipping it ev
 
 I build things end-to-end, break them on purpose to see how they work, then build them properly.
 
-🌱 Currently: Kotlin Multiplatform, Go for backend, and building systems thinking.
+🌱 Currently: becoming more full-stack. Kotlin Multiplatform on the front, Go on the back.
+⚙️ Learning concurrency in Go by building: goroutines, channels, and knowing when not to use them.
+
+**What I'm working on**
+🧱 Software fundamentals and systems thinking: APIs, MCP
+🤖 Agent orchestration and AI-integrated apps
+🎥 Media handling
+💛 Emotional design in UI and UX
+
 📝 [jardelkerr.dev](https://jardelkerr.dev)
-📫 jardelkerr@live.com/kerrjardel@gmail.cmp
+📫 jardelkerr@live.com/kerrjardel@gmail.com
 
 <br>
 
@@ -15,8 +23,3 @@ I build things end-to-end, break them on purpose to see how they work, then buil
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-
-<!---
-JardelK467/JardelK467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
