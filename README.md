@@ -4,15 +4,16 @@ Kotlin, mostly. Android first, now writing the same code once and shipping it ev
 
 I build things end-to-end, break them on purpose to see how they work, then build them properly.
 
-🌱 Currently: Kotlin Multiplatform, backend, and getting back to fundamentals
+🌱 Currently: Kotlin Multiplatform, Go for backend, and building systems thinking.
 📝 [jardelkerr.dev](https://jardelkerr.dev)
-📫 jardelkerr@live.com
+📫 jardelkerr@live.com/kerrjardel@gmail.cmp
 
 <br>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
 <!---
